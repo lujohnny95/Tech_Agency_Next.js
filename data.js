@@ -3,11 +3,11 @@ export const data = [
       id: 1,
       name: "design",
       title: "Design",
-      desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      desc: "The creative minds at Tech Connect efficiently design and plan the project according to your requirements.",
       // video: "Avocado.mp4",
       photo: "design.jpg",
       longDesc:
-        "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+        "Our talented team of UI/UX designers will brainstorming key ideas based on the requirements, then blended with their expertise to ensure users will have the optimum experience.",
       images: [
         {
           id: 1,
@@ -39,10 +39,10 @@ export const data = [
       id: 2,
       name: "development",
       title: "Development",
-      desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      desc: "Our talented developers have a wealth of experience in transforming your ideas into apps that make a difference.",
       photo: "development.jpg",
       longDesc:
-        "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+        "Our team of developers have technical knowledge of a vast range of frameworks, design princples and latest design practices. They will ensure designs are interpreted to key specification and then transformed into life, into apps with a purpose.",
       images: [
         {
           id: 1,
@@ -74,10 +74,10 @@ export const data = [
       id: 3,
       name: "production",
       title: "Production",
-      desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      desc: "Continuous integration and deployment of key components with robust quality assurance.",
       photo: "production.jpg",
       longDesc:
-        "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+        "Our team of QA and DevOps experts ensure robust development and production stages with rigorous testing methodlogies. Upon production and development, Tech Connect will provide ongoing support to ensure apps are performing according the requirements.",
       images: [
         {
           id: 1,
@@ -109,10 +109,10 @@ export const data = [
       id: 4,
       name: "photography",
       title: "Photography",
-      desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      desc: "Talented photographers at Tech Connect capture moments that matter.",
       photo: "photography.jpg",
       longDesc:
-        "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+        "Our photography team understand the importance of capturing the essence of meaningful moments that pass by in a split second. We specialise in both portrait and landscape photography.",
       images: [
         {
           id: 1,
@@ -149,7 +149,7 @@ export const users = [
     logo: "google.png",
     avatar: "user3.jpg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "Tech connect has provided us with ongoing expertise and support for us to design, build and launch new products to the market. The agile workflow has been a smooth sailing throughout the projects. ",
     name: "Harold Brown",
     title: "Product Manager",
   },
@@ -158,7 +158,7 @@ export const users = [
     logo: "yahoo.png",
     avatar: "user2.jpg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "The talented developers at Tech Connect has efficiently interpreted and transformed my team's designs into apps that make a difference to millions on lives.",
     name: "Amanda Reyes",
     title: "UI/UX Designer",
   },
@@ -167,7 +167,7 @@ export const users = [
     logo: "facebook.png",
     avatar: "user1.jpeg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "The talented devs at Tech Connect has previously provided valuable support for certain major projects when complex problems were needed to be solved quickly.",
     name: "Zack Arnold",
     title: "Tech Lead",
   },

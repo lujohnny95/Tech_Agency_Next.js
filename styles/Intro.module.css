@@ -39,3 +39,30 @@
     border-radius: 10px;
     cursor: pointer;
 }
+
+@keyframes button {
+    to {
+        background-color: aqua;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .card {
+        padding: 50px;
+        align-items: center;
+        text-align: center;
+        justify-content: space-between;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+
+    .desc {
+        display: none;
+    }
+}
